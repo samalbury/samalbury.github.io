@@ -1,4 +1,4 @@
-baseURL = 'https://samalbury.github.io/samalbury/'
+baseURL = 'https://samalbury.github.io/'
 locale = 'en-us'
 title = "Sam Albury's Site"
 theme = 'terminal'
