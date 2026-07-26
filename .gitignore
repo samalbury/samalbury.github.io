@@ -1,0 +1,3 @@
+# Prevent conflicts with hugo.yaml build process
+
+public/
