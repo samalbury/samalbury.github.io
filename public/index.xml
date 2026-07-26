@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Terminal</title>
+		<link>https://samalbury.org/</link>
+		<description>Recent content on Terminal</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 26 Jul 2026 00:12:41 -0400</lastBuildDate>
+		
+			<atom:link href="https://samalbury.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>https://samalbury.org/about/</link>
+				<pubDate>Sun, 26 Jul 2026 00:12:41 -0400</pubDate>
+				<guid>https://samalbury.org/about/</guid>
+				<description>&lt;p&gt;Hello! I&amp;rsquo;m Sam Albury and this is my site. Currently, (Summer 2026) I am in my senior year studying physics at UMass Amherst. Previously, I attended New College of Florida and Hampshire College, but had to leave both due to &lt;a href=&#34;https://youtu.be/jFMc07F1UUU&#34;&gt;reasons&lt;/a&gt; &lt;a href=&#34;https://www.hampshire.edu/offices/office-president/closure-information&#34;&gt;beyond my control&lt;/a&gt;. For the past year and a half, I&amp;rsquo;ve worked for professors &lt;a href=&#34;https://websites.umass.edu/pocar/&#34;&gt;Andrea Pocar&lt;/a&gt; and &lt;a href=&#34;https://people.umass.edu/kkumar/&#34;&gt;Krishna Kumar&lt;/a&gt; on their &lt;a href=&#34;https://nexo.llnl.gov/nexo-overview&#34;&gt;nEXO&lt;/a&gt; research and development work. Last summer, I primarily worked on improvements to the signal path of Kumar&amp;rsquo;s xenon time projection chamber.This summer, I am heading Pocar&amp;rsquo;s investigation into the reflectance of magnesium fluoride coated aluminum in liquid xenon. In addition, I&amp;rsquo;ve been helping develop and document PocarLab&amp;rsquo;s wrapper for the &lt;a href=&#34;https://github.com/Pocar-Lab/chroma&#34;&gt;Chroma&lt;/a&gt; optical simulation tool.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Grey literature and where to find it</title>
+				<link>https://samalbury.org/posts/grey-literature/</link>
+				<pubDate>Sat, 25 Jul 2026 20:06:23 -0400</pubDate>
+				<guid>https://samalbury.org/posts/grey-literature/</guid>
+				<description>&lt;p&gt;Did you know that almost every detail about the design and operation of a nuclear power plant is online? You can download it, for free, legally, from the Nuclear Regulatory Comission. Dont belive me? Have a look: &lt;a href=&#34;https://adams-search.nrc.gov/home&#34;&gt;NRC ADAMS Search&lt;/a&gt;. This is just one example of &amp;ldquo;Grey Literature&amp;rdquo;, defined as government, academic, or industry documents which are not published by a commercial publisher.&lt;/p&gt;&#xA;&lt;figure class=&#34;ma0 w-75 center&#34;&gt;&lt;img src=&#34;https://samalbury.org/images/Containment_Building.png&#34;&#xA;&#x9;&#x9;&#x9;alt=&#34;A cross-section of a nuclear containmennt building&#34;&gt;&lt;figcaption&gt;&#xA;&#x9;&#x9;&#x9;&lt;p&gt;Elevation view of the containment building of a Westinghouse Pressurized Water Reactor, retreived from public NRC documents.  (&lt;a href=&#34;https://www.nrc.gov/docs/ML1122/ML11223A221.pdf&#34;&gt;ML22334A221&lt;/a&gt;)&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

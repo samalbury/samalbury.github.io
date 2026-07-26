@@ -1,0 +1,66 @@
+baseURL = 'https://samalbury.org/'
+locale = 'en-us'
+title = "samalbury.org"
+theme = 'terminal'
+
+pagination.pagerSize = 10
+
+
+[Params]
+  contentTypeName = "posts"
+  showMenuItems = 2
+  description = "Sam Albury's Site"
+  darkmode = true  # Set to true to enforce dark mode
+  centerTheme = true
+
+
+[Params.Author]
+  name = "Sam"
+  abstract = """
+  Your bio goes here. This appears on the homepage.
+  """
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Terminal"
+
+    [languages.en.params]
+      subtitle = "A simple, retro theme for Hugo"
+      owner = ""
+      keywords = ""
+      copyright = ""
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "Sam Albury"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "About"
+          url = "/about"
+        [[languages.en.menu.main]]
+          identifier = "posts"
+          name = "Posts"
+          url = "/posts"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

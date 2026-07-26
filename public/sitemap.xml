@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://samalbury.org/about/</loc>
+    <lastmod>2026-07-26T00:12:41-04:00</lastmod>
+  </url><url>
+    <loc>https://samalbury.org/</loc>
+    <lastmod>2026-07-25T20:48:00-04:00</lastmod>
+  </url><url>
+    <loc>https://samalbury.org/posts/grey-literature/</loc>
+    <lastmod>2026-07-25T20:06:23-04:00</lastmod>
+  </url><url>
+    <loc>https://samalbury.org/posts/</loc>
+    <lastmod>2026-07-25T20:06:23-04:00</lastmod>
+  </url><url>
+    <loc>https://samalbury.org/categories/</loc>
+  </url><url>
+    <loc>https://samalbury.org/series/</loc>
+  </url><url>
+    <loc>https://samalbury.org/tags/</loc>
+  </url>
+</urlset>
