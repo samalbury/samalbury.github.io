@@ -6,7 +6,7 @@ title = 'Grey literature and where to find it'
 Did you know that almost every detail about the design and operation of a nuclear power plant is online? You can download it, for free, legally, from the Nuclear Regulatory Comission. Dont belive me? Have a look: [NRC ADAMS Search](https://adams-search.nrc.gov/home). This is just one example of "Grey Literature", defined as government, academic, or industry documents which are not published by a commercial publisher.
 
 {{< figure
-  src="images/Containment_Building.png"
+  src="/images/Containment_Building.png"
   alt="A cross-section of a nuclear containmennt building"
   caption="Elevation view of the containment building of a Westinghouse Pressurized Water Reactor, retreived from public NRC documents.  ([ML22334A221](https://www.nrc.gov/docs/ML1122/ML11223A221.pdf))"
   class="ma0 w-75 center"
