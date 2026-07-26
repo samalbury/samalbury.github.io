@@ -30,11 +30,11 @@ pagination.pagerSize = 10
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Sam Albury"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
+      subtitle = "One of the sites of the internet"
+      owner = "Sam Albury"
       keywords = ""
       copyright = ""
       menuMore = "Show more"
