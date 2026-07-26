@@ -8,7 +8,7 @@ pagination.pagerSize = 10
 
 [Params]
   contentTypeName = "posts"
-  showMenuItems = 2
+  showMenuItems = 4
   description = "Sam Albury's Site"
   darkmode = true  # Set to true to enforce dark mode
   centerTheme = true
@@ -29,7 +29,7 @@ pagination.pagerSize = 10
 
 [languages]
   [languages.en]
-    languageName = "English"
+    label = "English"
     title = "Sam Albury"
 
     [languages.en.params]
@@ -56,11 +56,17 @@ pagination.pagerSize = 10
           identifier = "about"
           name = "About"
           url = "/about"
+	  weight = 2
         [[languages.en.menu.main]]
           identifier = "posts"
           name = "Posts"
           url = "/posts"
-
+	  weight = 1
+        [[languages.en.menu.main]]
+          identifier = "links"
+          name = "Links"
+          url = "/links"
+	  weight = 3
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
