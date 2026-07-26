@@ -1,6 +1,6 @@
-baseURL = 'https://samalbury.org/'
+baseURL = 'https://samalbury.github.io/samalbury/'
 locale = 'en-us'
-title = "samalbury.org"
+title = "Sam Albury's Site"
 theme = 'terminal'
 
 pagination.pagerSize = 10
